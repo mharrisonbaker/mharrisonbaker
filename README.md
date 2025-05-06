@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Matthew Baker
 
-<!--
-**mharrisonbaker/mharrisonbaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an AI/ML Product Owner with a proven track record building scalable machine learning systems in regulated environments — currently at the U.S. Patent and Trademark Office (USPTO). My work focuses on transforming real-world workflows into ML pipelines and AI-powered services.
 
-Here are some ideas to get you started:
+### 🧠 What I Do
+- 🚀 Lead end-to-end ML product development — from prototype to production
+- 🔎 Build retrieval-augmented generation (RAG) systems for patent workflows
+- 📊 Translate stakeholder needs into clean data pipelines running 24/7 in Production
+- ☁️ Manage deployment of containerized inference services on AWS, Azure, and on-prem solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Some Featured Projects (outside of my work duties)
+- [**CODE @USPTO Newsletter Project**](https://github.com/USPTOCode/uspto-newsletter)  
+  Born out of laziness, a Python + React system to streamline newsletter creation and distribution for the Club for Open Data Enthusiasts (C.O.D.E.); not an official USPTO project :)
+
+- [**Chat-MPEP**](https://github.com/USPTOCode/preexam-assist)  
+ She’s an older manual, sir…but she's got it where it counts. Indexed, embedded, and chat-ready. Chat-MPEP transforms the USPTO’s Manual of Patent Examining Procedure RMDS (🤮) into structured JSON (🧼) and powers an interactive chatbot using LlamaIndex and Microsoft Phi, demoed on an airgapped laptop at USPTO Community Day 2024.
+
+- [**CPC Definition Expansion Tool**](https://github.com/USPTOCode/expandedCPCdefinitions)  
+  Sample code from a larger project I am working on. Human-readable definitions for 250,000 CPC symbols using LLMs and a deep respect for taxonomy. Finally a way through the classification rabbit hole without losing your head 👑
+
+### 📫 Find Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mharrisonbaker)  
+
