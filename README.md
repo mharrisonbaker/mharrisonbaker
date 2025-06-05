@@ -9,6 +9,10 @@ I’m an AI/ML Product Owner with a proven track record building scalable machin
 - ☁️ Manage deployment of containerized inference services on AWS, Azure, and on-prem solutions
 
 ### 📌 Some Featured Projects (outside of my work duties)
+
+- [**RAG-RAG Starter Kit**](https://github.com/mharrisonbaker/rag-rag-starter)  
+  A reality-rooted RAG framework for federal compliance. No Digital DMT 🌀 included — this architecture keeps AI systems grounded in verifiable sources and compliant with federal requirements.
+
 - [**CODE @USPTO Newsletter Project**](https://github.com/USPTOCode/uspto-newsletter)  
   Born out of laziness, a Python + React system to streamline newsletter creation and distribution for the Club for Open Data Enthusiasts (C.O.D.E.); not an official USPTO project :)
 
