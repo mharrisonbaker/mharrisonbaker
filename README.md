@@ -16,7 +16,7 @@ I’m an AI/ML Product Owner with a proven track record building scalable machin
 - [**CODE @USPTO Newsletter Project**](https://github.com/USPTOCode/uspto-newsletter)  
   Born out of laziness, a Python + React system to streamline newsletter creation and distribution for the Club for Open Data Enthusiasts (C.O.D.E.); not an official USPTO project :)
 
-- [**Chat-MPEP**]((https://github.com/USPTOCode/MPEP-Chatbot))  
+- [**Chat-MPEP**](https://github.com/USPTOCode/MPEP-Chatbot)  
  She’s an older manual, sir…but she's got it where it counts. Indexed, embedded, and chat-ready. Chat-MPEP transforms the USPTO’s Manual of Patent Examining Procedure from RDMS format (🤮) into structured JSON (🧼) and powers an interactive chatbot using LlamaIndex and Microsoft Phi, demoed on an airgapped laptop at USPTO Community Day 2024.
 
 - [**CPC Definition Expansion Tool**](https://github.com/USPTOCode/expandedCPCdefinitions)  
